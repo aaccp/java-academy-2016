@@ -1,0 +1,31 @@
+Transfer of Control Statements
+1)	Fishing for hour 1
+	Fishing for hour 2
+	Fishing for hour 3
+	Fishing for hour 4
+
+2)	Day 1: camping
+	and Fishing
+
+	Day 2: camping
+	and Fishing
+
+	Day 3: camping
+	and Fishing
+
+	Day 4: camping
+	and Fishing
+
+	Day 5: camping
+	and Fishing
+
+	Day 6: camping
+
+	Day 7: camping
+
+3)	public double squareArea(double side){
+		return side*side;
+	}
+
+4)	The end value before exitting the method will be 2, however,
+	being a method variable it will be disposed after exitting the method.
